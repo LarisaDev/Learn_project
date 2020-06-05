@@ -3,5 +3,6 @@ public class file2 {
         int age;
         age = 33;
         System.out.println("Мне исполнилось " + age);
+        System.out.println("branch new");
     }
 }
